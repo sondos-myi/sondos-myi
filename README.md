@@ -12,8 +12,7 @@ I'm an undergraduate student passionate about Artificial Intelligence and curren
 
 ---
 
-![Sondos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondos-myi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondos-myi&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=sondos-myi&show_icons=true&theme=radical)
 
 ---
 
